@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="RoundImageWithSurround">
+
+        <attr name="surround_color" format="color"/>
+        <attr name="surround_width" format="integer"/>
+
+    </declare-styleable>
+
+</resources>
